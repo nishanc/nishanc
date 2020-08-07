@@ -1,9 +1,10 @@
-<a href="https://github.com/nishanc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanc&theme=radical" />
-</a>
+<p align="center"> 
+  <a href="https://github.com/nishanc">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanc&theme=radical" />
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishanc&&show_icons=true&theme=radical&line_height=27&v=5" alt="My GitHub Stats" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=nishanc&&show_icons=true&theme=radical&line_height=27&v=5" alt="My GitHub Stats" />
+</p>
 <!--
 **nishanc/nishanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
