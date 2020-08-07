@@ -12,21 +12,21 @@
      </p>
    </div>
    <p align="center"> 
-           <a href="https://twitter.com/Nishan_CW">
+      <a href="https://twitter.com/Nishan_CW">
         <img align="" alt="Nishan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-      </a>
+      </a>&nbsp;
       <a href="https://www.linkedin.com/in/nishanchathuranga">
         <img align="" alt="Nishan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-      </a>
+      </a>&nbsp;
       <a href="https://github.com/nishanc">
         <img align="" alt="Nishan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-      </a>
+      </a>&nbsp;
       <a href="https://www.instagram.com/nishan_cw">
         <img align="" alt="Nishan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-      </a>
+      </a>&nbsp;
       <a href="https://www.facebook.com/Nishan.C.Wickramarathna">
         <img align="" alt="Nishan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-      </a>
+      </a>&nbsp;
       <a href="https://medium.com/@nishancw">
         <img align="" alt="Nishan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
       </a>
@@ -37,7 +37,7 @@
        <br/>  
      </p>
      <p align="center"> 
-     Languages I use
+     <b>Languages I use&nbsp;&nbsp;▼</b>
 
   ![C](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=c%2B%2B)
   ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -54,7 +54,7 @@
          </a>
      </p>
      <hr>
-     <p align="center"> 
+     <p align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nishanc&label=PROFILE+VIEWS&color=brightgreen&style=flat)
      </p>
