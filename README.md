@@ -7,7 +7,7 @@
  <summary><b>More About Me</b><br></summary>
    <div>
      <p align="center">
-       Specialized in Systems Design • Social Innovation • Cloud • ML 
+       Specialized in Systems Design • Social Innovation • Cloud • ML and curruntly working as a Software Engineer at <a href="https://github.com/99xt">99xt</a>. Visit my <a href="https://nishanc.github.io">portfolio</a> for more information.
        <br><hr>Deplores fakes, Drinks water, Protests regularly, Votes patriots, Concerned environmentalist, Restless, Refuses to be stereotyped, Eats fire, Values friendship honesty and loyalty more than anything.
      </p>
    </div>
@@ -35,15 +35,30 @@
      <p align="center">
        <img src="https://github-readme-stats.vercel.app/api?username=nishanc&&show_icons=true&theme=radical&line_height=27&v=5" alt="My GitHub Stats" />
        <br/>  
-       <a href="https://github.com/nishanc">
+     </p>
+     <p align="center"> 
+     Languages I use
+
+  ![C](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=c%2B%2B)
+  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+     </p>
+     <p align="center">
+        <a href="https://github.com/nishanc">
          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanc" />
-       </a>
+         </a>
      </p>
      <hr>
      <p align="center"> 
-      Visitor count<br>
-       <img src="https://profile-counter.glitch.me/nishanc/count.svg" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=nishanc&label=PROFILE+VIEWS&color=brightgreen&style=flat)
      </p>
+
    </div>
    <p align="center"> 
       <a href="https://www.buymeacoffee.com/nishanc">
