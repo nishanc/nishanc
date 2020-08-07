@@ -1,6 +1,6 @@
 <p align="center"> 
     <a href="https://github.com/nishanc">
-        <img src="https://raw.githubusercontent.com/nishanc/nishanc/master/animation.gif" alt="Donate" width="130">
+        <img src="https://raw.githubusercontent.com/nishanc/nishanc/master/animation-header.gif" alt="Nishan Chathuranga">
     </a>
 </p>
 <details align="center">
