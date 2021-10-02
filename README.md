@@ -12,7 +12,7 @@
      </p>
    </div>
    <p align="center"> 
-      <a href="https://twitter.com/Nishan_CW">
+      <a href="https://twitter.com/devnishanc">
         <img align="" alt="Nishan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
       </a>&nbsp;
       <a href="https://www.linkedin.com/in/nishanchathuranga">
@@ -21,13 +21,13 @@
       <a href="https://github.com/nishanc">
         <img align="" alt="Nishan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
       </a>&nbsp;
-      <a href="https://www.instagram.com/nishan_cw">
+      <a href="https://www.instagram.com/nishancw">
         <img align="" alt="Nishan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
       </a>&nbsp;
       <a href="https://www.facebook.com/Nishan.C.Wickramarathna">
         <img align="" alt="Nishan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
       </a>&nbsp;
-      <a href="https://medium.com/@nishancw">
+      <a href="https://nishanc.medium.com">
         <img align="" alt="Nishan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
       </a>
    </p>
