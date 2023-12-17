@@ -7,12 +7,12 @@
  <summary><b>More About Me</b><br></summary>
    <div>
      <p align="center">
-       Specialized in Systems Design • Social Innovation • Cloud • ML and curruntly working as a Software Engineer at <a href="https://github.com/99xt">99xt</a>. Visit my <a href="https://nishanc.github.io">portfolio</a> for more information.
+       Specialized in Systems Design • Social Innovation • Cloud • ML and curruntly working as an Associate Technical Lead at <a href="https://www.xeynergy.com/">Xeynergy</a>. Visit my <a href="https://nishanc.com/prtfolio">portfolio</a> for more information.
        <br><hr>Deplores fakes, Drinks water, Protests regularly, Votes patriots, Concerned environmentalist, Restless, Refuses to be stereotyped, Eats fire, Values friendship honesty and loyalty more than anything.
      </p>
    </div>
    <p align="center"> 
-      <a href="https://twitter.com/devnishanc">
+      <a href="https://twitter.com/nishan_cw">
         <img align="" alt="Nishan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
       </a>&nbsp;
       <a href="https://www.linkedin.com/in/nishanchathuranga">
