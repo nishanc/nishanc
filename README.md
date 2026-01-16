@@ -1,8 +1,13 @@
 <p align="center"> 
+    
+[![Nishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanc&theme=rogue)](https://github.com/nishanc)
+
+</p>
+<!-- <p align="center"> 
     <a href="https://github.com/nishanc">
         <img src="https://raw.githubusercontent.com/nishanc/nishanc/master/animation-header.gif" alt="Nishan Chathuranga">
     </a>
-</p>
+</p> -->
 <details align="center">
  <summary><b>More About Me</b><br></summary>
    <div>
